@@ -66,7 +66,7 @@ model.evaluate(X_test,y_test)
 ###############################################################################
 
 # Inserir imagem manualmente para teste
-predict('image.png.')
+predict('image.png')
 
 
 
